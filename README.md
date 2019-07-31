@@ -41,4 +41,8 @@ samples, guidance on mobile development, and a full API reference.
 - Stack
 - Text
 
+## Credits
+
+Thank you for someone who shared this design at dribbble.com
+
 If you feel this project helps you in learn flutter, please give me ★.
