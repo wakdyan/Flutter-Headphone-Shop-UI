@@ -1,7 +1,12 @@
 # shopping_app
 
-A new Flutter project.
+This app contains 2 pages:
+- Login Page (Not required username & password, just press Login Button). 
+- Main Page (Just UI).
 
+## Overview
+
+<img src="https://github.com/wakdyan/Flutter-Headphone-Shop-UI/blob/master/assets/Login%20Page.png" width="271" height="462" /> <img src="https://github.com/wakdyan/Flutter-Headphone-Shop-UI/blob/master/assets/Home%20Page.png" width="271" height="462" />                                                    
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -14,3 +19,23 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Widgets Used
+
+- BottomNavigationBar
+- CircleAvatar
+- Column
+- Container
+- Gradient
+  * RadialGradient
+  * LinearGradient
+- Icon
+- Image
+- ListTile
+- Padding
+- Row
+- SizedBox
+- Stack
+- Text
+
+If you feel this project helps you in learn flutter, please give me ★.
