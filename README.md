@@ -23,6 +23,9 @@ samples, guidance on mobile development, and a full API reference.
 ## Widgets Used
 
 - BottomNavigationBar
+- Button
+  * FlatButton
+  * RaisedButton
 - CircleAvatar
 - Column
 - Container
